@@ -1,0 +1,823 @@
+{
+  "code": "100000",
+  "data": {
+    "book_list": [
+      {
+        "author_name": "扶桑",
+        "book_id": "100255300",
+        "book_name": "我穿越成了一片海",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "5",
+        "chapter_amount": "33",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210707/07-07-21163832-78028.jpg",
+        "current_blade": "809",
+        "current_yp": "2088",
+        "description": "夏九溟一觉醒来，发现自己重生成了上古神话世界中的东海。海中有龙、有鲛人、以及各种奇异生灵。这回不当人了，总算不用卷了吧？终于可以心安理得的躺平了……他只想做一个风平浪静的海，安安稳稳的与天地同寿，静静地看世间百态。但为什么麻烦总是接踵而至？葬身东海，化身精卫，立志填海的炎帝之女女娃。所过之地，赤地千里，想在海中寻找安身之地的黄帝之女女魃。旦为朝云、暮为行雨的神女瑶姬。还有自洛河而来，却留在东海不愿再回去的伏羲之女洛神。……“等等，我虽然是海，但我没想当海王啊？”PS：非人流上古神话，架空背景，部分神话有改编，请勿较真。",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100255300",
+          "chapter_id": "107367617",
+          "chapter_index": "32",
+          "chapter_title": "第030章：聪明的精卫！",
+          "mtime": "2021-07-10 19:49:04",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 10:36:40"
+        },
+        "month_click": "4784625",
+        "month_fans_value": "289640",
+        "month_favor": "41053",
+        "month_no_vip_click": "3152421",
+        "month_recommend": "24823",
+        "newtime": "2021-06-29 17:34:22",
+        "review_amount": "131",
+        "reward_amount": "208740",
+        "tag": "非人,无敌",
+        "tag_list": [
+          {
+            "tag_id": "936023",
+            "tag_name": "海豹",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "928407",
+            "tag_name": "非人",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "928410",
+            "tag_name": "上古神话",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "928408",
+            "tag_name": "无敌",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "937605",
+            "tag_name": "☁🌊☁",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "937307",
+            "tag_name": "海豹窝",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "937591",
+            "tag_name": "大海",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "938533",
+            "tag_name": "北冰洋",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "938532",
+            "tag_name": "南极洲",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "809",
+        "total_click": "4793223",
+        "total_fans_value": "289640",
+        "total_favor": "41229",
+        "total_recommend": "24900",
+        "total_word_count": "69069",
+        "total_yp": "2096",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 10:36:40",
+        "week_click": "4749540",
+        "week_fans_value": "286740",
+        "week_favor": "40638",
+        "week_no_vip_click": "3136917",
+        "week_recommend": "24585"
+      },
+      {
+        "author_name": "原酿",
+        "book_id": "100249254",
+        "book_name": "金木研的剑道修改器",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "6",
+        "chapter_amount": "41",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210527/27-05-21165729-98867.jpg",
+        "current_blade": "91",
+        "current_yp": "379",
+        "description": "喰种，最顶级的捕食者。它们有着超人般的身体素质，宛如合金锻造的钢铁皮肤，伸缩自如的捕食器官赫子。以及，与人类别无二致的外貌伪装。来自另一个世界的灵魂，悄然降生到金木研身上，取而代之。面对处处藏着危机的东京，似乎只能艰难苟活？不，他有修改器！",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100249254",
+          "chapter_id": "107366768",
+          "chapter_index": "40",
+          "chapter_title": "040：被蛇鳞覆盖的右手",
+          "mtime": "2021-07-10 13:29:22",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 03:21:45"
+        },
+        "month_click": "2974155",
+        "month_fans_value": "177164",
+        "month_favor": "30466",
+        "month_no_vip_click": "1903005",
+        "month_recommend": "7867",
+        "newtime": "2021-06-23 15:26:32",
+        "review_amount": "142",
+        "reward_amount": "170416",
+        "tag": "升级,无限流",
+        "tag_list": [
+          {
+            "tag_id": "934672",
+            "tag_name": "一定要完本。",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "904762",
+            "tag_name": "东京",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "904760",
+            "tag_name": "升级",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "934352",
+            "tag_name": "东京食尸鬼",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "934351",
+            "tag_name": "东京喰种",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "904761",
+            "tag_name": "无限流",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "107",
+        "total_click": "3076212",
+        "total_fans_value": "181116",
+        "total_favor": "31100",
+        "total_recommend": "8888",
+        "total_word_count": "82235",
+        "total_yp": "431",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 03:21:45",
+        "week_click": "2950992",
+        "week_fans_value": "175464",
+        "week_favor": "30358",
+        "week_no_vip_click": "1890597",
+        "week_recommend": "7706"
+      },
+      {
+        "author_name": "了了一三",
+        "book_id": "100254138",
+        "book_name": "我的二次元朋友圈有点不对劲",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "6",
+        "chapter_amount": "46",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210622/22-06-21180214-17891.jpg",
+        "current_blade": "372",
+        "current_yp": "609",
+        "description": "白铭捡到了一部手机朋友圈里全都是二次元人物，只要点赞就能获得她们的能力！蜘蛛子：今天的午餐（青蛙照片jpg.）点赞！获得吐丝能力！摩根：这孩子总有一天会加冕为王！点赞！获得魔具做成！刻晴：帝君限量手办好好康~点赞！获得云来剑法！凯尔希：阿米娅长高了一点（晒娃）。点赞：获得Mon3tr！为了提升实力白洺化身点赞狂魔，并且每一次都会在下面留下评论。久而久之，他收到的回复突然奇怪了起来···摩根：你能接受一个有孩子的女人吗？顺便统治一个国家。蜘蛛子：你喜欢魔物娘吗？凯尔希：你想养一只像猞猁的猫吗？？我只馋你们的能力不馋你们**啊！",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100254138",
+          "chapter_id": "107368402",
+          "chapter_index": "46",
+          "chapter_title": "第45章 混乱的误会",
+          "mtime": "2021-07-10 15:00:28",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 15:00:28"
+        },
+        "month_click": "3369534",
+        "month_fans_value": "51776",
+        "month_favor": "25162",
+        "month_no_vip_click": "1981074",
+        "month_recommend": "10597",
+        "newtime": "2021-06-28 17:41:35",
+        "review_amount": "82",
+        "reward_amount": "15076",
+        "tag": "脑洞大开,升级,恋爱,综漫,都市,fate",
+        "tag_list": [
+          {
+            "tag_id": "932222",
+            "tag_name": "脑洞大开",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "932223",
+            "tag_name": "升级",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "932225",
+            "tag_name": "恋爱",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "932221",
+            "tag_name": "综漫",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "932226",
+            "tag_name": "都市",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "932224",
+            "tag_name": "fate",
+            "tag_type": "2"
+          }
+        ],
+        "total_blade": "397",
+        "total_click": "3635109",
+        "total_fans_value": "54776",
+        "total_favor": "28573",
+        "total_recommend": "11210",
+        "total_word_count": "100986",
+        "total_yp": "650",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 15:00:28",
+        "week_click": "2629764",
+        "week_fans_value": "48288",
+        "week_favor": "18403",
+        "week_no_vip_click": "1534749",
+        "week_recommend": "9457"
+      },
+      {
+        "author_name": "平平无奇咕咕陈",
+        "book_id": "100255275",
+        "book_name": "勇者，不可以！",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "3",
+        "chapter_amount": "37",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210629/29-06-21171925-38761-100255275.jpg",
+        "current_blade": "118",
+        "current_yp": "297",
+        "description": "许多年后，面对众臣的朝拜，罗南回想起他穿越到女尊世界成为男魅魔的那个遥远的下午。……PS：简介苦手，类巫师西幻世界观。包含冒险、修罗场、种田等元素。管你看没看懂，先看几章不就完了！（注入灵魂）",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100255275",
+          "chapter_id": "107361575",
+          "chapter_index": "37",
+          "chapter_title": "033 你知道这五年我怎么过的吗？",
+          "mtime": "2021-07-10 20:54:56",
+          "recommend_book_info": "[{\"book_name\":\"\\u6211\\uff0c\\u5927\\u708e\\u5929\\u5e08\",\"book_id\":\"100231132\"}]",
+          "uptime": "2021-07-10 17:50:02"
+        },
+        "month_click": "2846049",
+        "month_fans_value": "174752",
+        "month_favor": "20795",
+        "month_no_vip_click": "1574082",
+        "month_recommend": "4880",
+        "newtime": "2021-07-01 10:21:07",
+        "review_amount": "49",
+        "reward_amount": "163652",
+        "tag": "修罗场,爽文",
+        "tag_list": [
+          {
+            "tag_id": "928302",
+            "tag_name": "修罗场",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "936467",
+            "tag_name": "人形媚药",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "935409",
+            "tag_name": "爽文",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "127",
+        "total_click": "2855106",
+        "total_fans_value": "176352",
+        "total_favor": "20998",
+        "total_recommend": "5039",
+        "total_word_count": "69951",
+        "total_yp": "305",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 17:50:02",
+        "week_click": "2743596",
+        "week_fans_value": "171452",
+        "week_favor": "19862",
+        "week_no_vip_click": "1513992",
+        "week_recommend": "4482"
+      },
+      {
+        "author_name": "D/W?",
+        "book_id": "100247872",
+        "book_name": "人在艾尔罗，不是蜘蛛子，是邪神哒！",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "59",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210523/23-05-21001653-7733-100247872.jpg",
+        "current_blade": "122",
+        "current_yp": "284",
+        "description": "我穿越了，同时成为了世界三大职业之二的中国穿越者以及日本高中生但，这个学校好像有点不太对劲，隔三差五便会有性格亚撒西的高中生凭空消失另人费解但我想我知道原因——因为隔壁平职的原班人马已经在上周集体穿越了而我，离异世界生活只差一辆卡车——或者一场爆炸......邪神D，若叶姬色，超级无敌美少女，摸鱼公会会员，有一个大胸女仆，现在在进行JK游戏，随时可能会被拖回去工作，在未来的某一秒她就会送全班去异世界而她的同桌，也就是我，南梦涯——是无辜的......——绝对是无辜的啊！！！D你这个混蛋还老子青春日常啊！！！还我高中女JK啊！！！谁稀罕什么异世界啊！！！——不行哦，J",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100247872",
+          "chapter_id": "107368762",
+          "chapter_index": "59",
+          "chapter_title": "第四十八页：第二阶段",
+          "mtime": "2021-07-10 16:57:16",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 16:57:16"
+        },
+        "month_click": "2524419",
+        "month_fans_value": "13400",
+        "month_favor": "15362",
+        "month_no_vip_click": "1559445",
+        "month_recommend": "4190",
+        "newtime": "2021-06-23 17:54:47",
+        "review_amount": "105",
+        "reward_amount": "1800",
+        "tag": "rnm的d,上头,蜘蛛子",
+        "tag_list": [
+          {
+            "tag_id": "936248",
+            "tag_name": "rnm的d",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "926338",
+            "tag_name": "上头",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "901019",
+            "tag_name": "蜘蛛子",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "138",
+        "total_click": "2993238",
+        "total_fans_value": "15600",
+        "total_favor": "17541",
+        "total_recommend": "5789",
+        "total_word_count": "115461",
+        "total_yp": "345",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 16:57:16",
+        "week_click": "2398086",
+        "week_fans_value": "12600",
+        "week_favor": "14833",
+        "week_no_vip_click": "1483863",
+        "week_recommend": "3696"
+      },
+      {
+        "author_name": "缘凃",
+        "book_id": "100255871",
+        "book_name": "魔女竟然都在我身边",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "27",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210701/01-07-21162533-45442.jpg",
+        "current_blade": "251",
+        "current_yp": "457",
+        "description": "“圣女大人，诺亚殿下已经被您赶走十五年了。”“哦？那他知道错了吗？”“他女儿都已经十五岁了。”圣女：？？？",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100255871",
+          "chapter_id": "107368962",
+          "chapter_index": "27",
+          "chapter_title": "第27章 魔女的气息",
+          "mtime": "2021-07-10 17:46:24",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 17:46:00"
+        },
+        "month_click": "2266017",
+        "month_fans_value": "193188",
+        "month_favor": "22706",
+        "month_no_vip_click": "1399548",
+        "month_recommend": "8663",
+        "newtime": "",
+        "review_amount": "45",
+        "reward_amount": "168088",
+        "tag": "恋爱,萝莉,慢热,战斗,冒险",
+        "tag_list": [
+          {
+            "tag_id": "930466",
+            "tag_name": "恋爱",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930469",
+            "tag_name": "萝莉",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930467",
+            "tag_name": "慢热",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930468",
+            "tag_name": "战斗",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930465",
+            "tag_name": "冒险",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "251",
+        "total_click": "2266017",
+        "total_fans_value": "193188",
+        "total_favor": "22706",
+        "total_recommend": "8663",
+        "total_word_count": "52910",
+        "total_yp": "457",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 17:46:00",
+        "week_click": "2247975",
+        "week_fans_value": "189700",
+        "week_favor": "22404",
+        "week_no_vip_click": "1392495",
+        "week_recommend": "8358"
+      },
+      {
+        "author_name": "哈士奇不是骑",
+        "book_id": "100242527",
+        "book_name": "男儿十八，会变成花",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "27",
+        "chapter_amount": "63",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210615/15-06-21144336-35427.jpg",
+        "current_blade": "113",
+        "current_yp": "258",
+        "description": "穿越到了一个有趣的世界，这里有着和地球相似的文明，数个国家、各个板块，和地球类似，科技也是这里某个国家的发展主力，但是这里的人也有一些有趣的能力…不同国家，不同地区所依赖的力量并不一样。最为有趣的地方便是这里的人出生便是男孩，但是直到年龄大于十八岁之后便会变为女孩子…对于这些人来说，十八岁前的男孩子在拥有繁殖能力之后便会很抢手…而他发现除了自己之外的人在长大后似乎全都变成了女孩子...",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100242527",
+          "chapter_id": "107369498",
+          "chapter_index": "63",
+          "chapter_title": "六十二章 奇怪的变化",
+          "mtime": "2021-07-10 20:05:02",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 20:05:02"
+        },
+        "month_click": "2025456",
+        "month_fans_value": "24652",
+        "month_favor": "15156",
+        "month_no_vip_click": "1243734",
+        "month_recommend": "4165",
+        "newtime": "2021-06-16 15:49:15",
+        "review_amount": "189",
+        "reward_amount": "14352",
+        "tag": "脑洞大开,校园,恋爱,穿越,科幻,青春",
+        "tag_list": [
+          {
+            "tag_id": "937464",
+            "tag_name": "基友变嫁",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "877437",
+            "tag_name": "脑洞大开",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "877436",
+            "tag_name": "校园",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "877439",
+            "tag_name": "恋爱",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "877440",
+            "tag_name": "穿越",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "877435",
+            "tag_name": "科幻",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "877438",
+            "tag_name": "青春",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "902004",
+            "tag_name": "性转",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "142",
+        "total_click": "2352261",
+        "total_fans_value": "28552",
+        "total_favor": "16457",
+        "total_recommend": "5147",
+        "total_word_count": "125033",
+        "total_yp": "317",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 20:05:02",
+        "week_click": "1928559",
+        "week_fans_value": "24052",
+        "week_favor": "14435",
+        "week_no_vip_click": "1188132",
+        "week_recommend": "3875"
+      },
+      {
+        "author_name": "太阳万岁",
+        "book_id": "100254263",
+        "book_name": "哥斯拉毁灭漫威",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "6",
+        "chapter_amount": "40",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210628/28-06-21225323-38970.jpg",
+        "current_blade": "110",
+        "current_yp": "281",
+        "description": "这是怪兽之王哥斯拉准备毁灭漫威的故事。“消灭东京，踏平福岛，这必须得让真哥斯拉上场呀！”“我的回合！我要派出的选手是——传奇哥斯拉！复仇者们，认输吧！”“食我氧气破坏者！”“你们竟然击退了大胖！但是没关系，又轮到我的回合了。”“以氧气破坏者为前置条件，派出戴斯特洛伊亚！”三首恶龙基多拉掠战星空和灭霸舰队对垒。至尊穆托肆虐阿斯加德，拳打火焰巨人。魔斯拉飞跃卡玛泰姬，宛若天降神灵。伟大的怪兽之王哥斯拉已经降临，超级英雄们，认清现实，然后认输吧！",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100254263",
+          "chapter_id": "107368669",
+          "chapter_index": "40",
+          "chapter_title": "040.毁灭与新生，天穹打击（2）",
+          "mtime": "2021-07-10 16:39:25",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 16:31:46"
+        },
+        "month_click": "2047830",
+        "month_fans_value": "14852",
+        "month_favor": "15063",
+        "month_no_vip_click": "1234698",
+        "month_recommend": "7591",
+        "newtime": "2021-06-29 17:34:46",
+        "review_amount": "74",
+        "reward_amount": "4352",
+        "tag": "非人,卡牌,无敌,机甲",
+        "tag_list": [
+          {
+            "tag_id": "932508",
+            "tag_name": "漫威",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "924633",
+            "tag_name": "哥斯拉",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "937041",
+            "tag_name": "哥总毁灭人类",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "924630",
+            "tag_name": "非人",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "924631",
+            "tag_name": "卡牌",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "924629",
+            "tag_name": "无敌",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "924632",
+            "tag_name": "机甲",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "117",
+        "total_click": "2095542",
+        "total_fans_value": "16052",
+        "total_favor": "15545",
+        "total_recommend": "7915",
+        "total_word_count": "85637",
+        "total_yp": "300",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 16:31:46",
+        "week_click": "1877385",
+        "week_fans_value": "11652",
+        "week_favor": "13376",
+        "week_no_vip_click": "1129311",
+        "week_recommend": "6642"
+      },
+      {
+        "author_name": "千",
+        "book_id": "100252262",
+        "book_name": "我，诸剑之祖，神代剑魔",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "3",
+        "chapter_amount": "47",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210613/13-06-21155923-61935.jpg",
+        "current_blade": "162",
+        "current_yp": "637",
+        "description": "安毅原本过着每天排位5小时，手游肝到肾透支的安逸人生。然而平静的生活转瞬即逝，一个意外让他穿越到了距今5000年以前的型月世界。这是一个诸神满地走，神兽不如狗的时代。不过最要命的不是这个。安毅发现自己穿越成的是自己排位赛中最后使用的英雄。暗裔剑魔——亚托克斯。他变成了一把剑。“择人而噬的魔剑？你有资格成为本王的宝物。”俯视着安毅的英雄王吉尔伽美什如是说道。“身为武器的我们，为什么会拥有自我的意识呢？”仰望着晨星的天之锁恩奇都在安毅的身旁自言自语。“拔出你的话，我就拥有能够胜过父王的力量了吗？”卡姆兰的剑丘上，染血的骑士莫德雷德握住了红色的魔剑。穿越到型月世界的暗裔剑魔，似乎与这个世界摩擦出了了不得的火花。",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100252262",
+          "chapter_id": "107369596",
+          "chapter_index": "46",
+          "chapter_title": "第四十六章 命运女神（四更）",
+          "mtime": "2021-07-10 20:37:26",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 20:29:56"
+        },
+        "month_click": "3702795",
+        "month_fans_value": "23516",
+        "month_favor": "12705",
+        "month_no_vip_click": "1970412",
+        "month_recommend": "13971",
+        "newtime": "2021-06-24 14:09:47",
+        "review_amount": "94",
+        "reward_amount": "11868",
+        "tag": "穿越,型月,fate,战斗,冒险",
+        "tag_list": [
+          {
+            "tag_id": "916800",
+            "tag_name": "穿越",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "916798",
+            "tag_name": "型月",
+            "tag_type": "2"
+          },
+          {
+            "tag_id": "916799",
+            "tag_name": "fate",
+            "tag_type": "2"
+          },
+          {
+            "tag_id": "916803",
+            "tag_name": "战斗",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "916801",
+            "tag_name": "冒险",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "916802",
+            "tag_name": "英雄联盟",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "216",
+        "total_click": "6473997",
+        "total_fans_value": "33468",
+        "total_favor": "38103",
+        "total_recommend": "20230",
+        "total_word_count": "112012",
+        "total_yp": "1023",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 20:29:56",
+        "week_click": "1803993",
+        "week_fans_value": "9740",
+        "week_favor": "2634",
+        "week_no_vip_click": "933537",
+        "week_recommend": "7256"
+      },
+      {
+        "author_name": "刘三乡",
+        "book_id": "100253426",
+        "book_name": "整个修仙界都怕我前女友",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "5",
+        "chapter_amount": "84",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210619/19-06-21013519-31239.jpg",
+        "current_blade": "487",
+        "current_yp": "780",
+        "description": "“给各位同胞提个醒，玩恋爱类游戏的时候，不要仗着网络是虚拟的，就为所欲为、始乱终弃、给自己结个数十位道侣。切记，互联网不是法外之地，要遵守基本道德！如若不然，等你哪天像我一样穿越进游戏里，就知道什么是生不如死了…”——林秀（书友群:604470515）",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "1",
+        "last_chapter_info": {
+          "book_id": "100253426",
+          "chapter_id": "107366123",
+          "chapter_index": "84",
+          "chapter_title": "第82章：玉无双、大真人",
+          "mtime": "2021-07-10 07:00:02",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 07:00:02"
+        },
+        "month_click": "3146703",
+        "month_fans_value": "447704",
+        "month_favor": "13315",
+        "month_no_vip_click": "1852086",
+        "month_recommend": "11299",
+        "newtime": "2021-06-22 14:49:39",
+        "review_amount": "53",
+        "reward_amount": "26492",
+        "tag": "修罗场,后宫,爆笑",
+        "tag_list": [
+          {
+            "tag_id": "932211",
+            "tag_name": "原创",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "922152",
+            "tag_name": "修罗场",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "922153",
+            "tag_name": "后宫",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "921337",
+            "tag_name": "爆笑",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "516",
+        "total_click": "4498152",
+        "total_fans_value": "453780",
+        "total_favor": "25229",
+        "total_recommend": "13057",
+        "total_word_count": "185690",
+        "total_yp": "874",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 07:00:02",
+        "week_click": "1675413",
+        "week_fans_value": "407036",
+        "week_favor": "4795",
+        "week_no_vip_click": "920847",
+        "week_recommend": "5980"
+      }
+    ]
+  },
+  "scroll_chests": []
+}

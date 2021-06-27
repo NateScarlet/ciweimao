@@ -1,0 +1,12 @@
+{
+  "code": "$string",
+  "data": {
+    "android_down_url": "$string",
+    "android_update_content": "$string",
+    "android_version": "$string",
+    "ios_down_url": "$string",
+    "ios_update_content": "$string",
+    "ios_version": "$string",
+    "is_force_update": "$string"
+  }
+}

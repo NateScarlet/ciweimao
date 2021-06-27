@@ -1,0 +1,4 @@
+.vscode/*
+!.vscode/cspell.json
+.env
+*.local.*

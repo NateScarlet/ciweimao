@@ -1,0 +1,340 @@
+{
+  "code": "100000",
+  "data": {
+    "official_tag_list": [
+      {
+        "tag_name": "综漫",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "fate",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "型月",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "无敌",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "性转",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "后宫",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "娘化",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "无限流",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "嫁人",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "爽文",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "同人",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "舰娘",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "穿越",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "奥特曼",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "病娇",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "修罗场",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "伪娘",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "非人",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "俺春物",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "路人女主",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "幻想乡",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "约会大作战",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "战斗",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "火影",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "黑化",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "种田",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "克苏鲁",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "恋爱",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "轻小说",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "萝莉",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "魔禁",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "脑洞大开",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "ACG",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "校园",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "龙族",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "重生",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "科幻",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "养成",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "升级",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "异世",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "魔法",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "技术流",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "爆笑",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "青春",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "节操",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "机甲",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "网游",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "绅士",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "海贼王",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "热血",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "白学",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "纯爱",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "冒险",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "治愈",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "生活",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "末世",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "一拳超人",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "妖怪",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "慢热",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "废萌",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "卡牌",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "扮猪吃虎",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "RE0",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "樱花庄",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "都市",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "玄幻",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "吸血鬼",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "2020年度最佳",
+        "tag_type": "5"
+      },
+      {
+        "tag_name": "腹黑",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "白色相簿",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "丧尸",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "EVA",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "龙女仆",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "救亡",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "魔兽",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "推理",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "生化",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "幽灵",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "魔性",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "英雄无敌",
+        "tag_type": "2"
+      },
+      {
+        "tag_name": "社团",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "废柴流",
+        "tag_type": "1"
+      },
+      {
+        "tag_name": "宅斗",
+        "tag_type": "1"
+      }
+    ]
+  },
+  "scroll_chests": []
+}

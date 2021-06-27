@@ -1,0 +1,828 @@
+{
+  "code": "100000",
+  "data": {
+    "book_info": {
+      "author_name": "学霸殿下",
+      "book_id": "100011781",
+      "book_name": "我的大宝剑",
+      "book_src": "本站首发",
+      "book_type": "1",
+      "category_index": "8",
+      "chapter_amount": "1240",
+      "cover": "http://c1.kuangxiangit.com/uploads/allimg/c160701/01-07-16220323-6809-100011781.jpg",
+      "current_blade": "6",
+      "current_yp": "26",
+      "description": "　　始皇历1838年，天元战争结束，一个刚穿越就被逼着打了六年的仗的男人将手中的大宝剑一扔，带着灵魂上的伤痛与茫然，摇摇晃晃地离开了满目疮痍的战场，想要去看看这个陌生而神秘的世界，我们的故事，就从他重获自由的两年后开始。\r\n\r\n　　然而他发现，事情并没有这么简单，那铁与火交织的六年，已经让他与这个新世界的命运紧紧地纠缠在一起，推行变革的汉家王朝，虎视眈眈的西方列强，挥舞帝兵的武者，操纵机械的枪炮士，驾驭蒸汽机关的工程师，一身致命武装的改造人，在这个科技树歪到姥姥家的新世界，各自处于巅峰状态的东西方文明正等待着一场华丽绚烂的终极碰撞，而他与那把被他扔掉的大宝剑，恰好正是一切的起源与因由。\r\n\r\n　　就像命运一样，他躲不过去。\r\n\r\n　　而且要命的是，他好像被自己扔掉的那把大宝剑给诅咒了……唔，亦或是祝福也不一定？\r\n\r\n　　他体内的大宝剑之力，有一部分变成了大保健之力……这是件很麻烦的事情，其中一个比较严重的后果，就是他永远失去了扶老奶奶过马路的资格。\r\n\r\n　　因为现在的他，只要碰触到女性的任何部位，就会让对方……咳咳，他妈的，真是太扯淡了。\r\n\r\n　　“大家好，我叫孙朗，最近因为某些原因转业成了一名游侠……还有，也许小时候的我渴望着各种萌妹子和一个大大的后宫，但现在我讨厌H，非常讨厌。”\r\n\r\n　　“……不要用这种眼神看着我，这是真的，你们一定要相信我。”\r\n\r\n￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥￥\r\n\r\nPS1:拙作《死神逃学日记》因百度小说贴吧大规模封禁之故，更新地点转移至新浪微博【学霸殿下】与微信公众平台【学霸殿下】（微信号a1316422829），依然有意追更的朋友请关注，并请互相转告告知。\r\n\r\nPS2：感谢一路陪伴，我是学霸，我在这里。",
+      "discount": "1",
+      "discount_end_time": "",
+      "is_original": "1",
+      "is_paid": "1",
+      "last_chapter_info": {
+        "book_id": "100011781",
+        "chapter_id": "106939421",
+        "chapter_index": "1250",
+        "chapter_title": "操操操操操操操又来了……",
+        "mtime": "2021-04-10 04:13:36",
+        "recommend_book_info": "[]",
+        "uptime": "2021-04-10 04:13:36"
+      },
+      "month_click": "137517",
+      "month_fans_value": "394600",
+      "month_favor": "238",
+      "month_no_vip_click": "38010",
+      "month_recommend": "309",
+      "newtime": "2016-06-02 16:02:31",
+      "review_amount": "32446",
+      "reward_amount": "14918340",
+      "tag": "撕字典,鬼畜,野兽先辈,还删评论？！,谢谢学霸,老书虫的仙草,祖传地下室,狗穴霸又断章,测试一下,污侠小说,求证学霸,正经小说,日在校园,敏感词怪学霸,GVV股东,掌阅里的太监,我们一直在,家里人知道吗,学霸看这里,女装读者,女装大佬,处男小说,地下室,刷票？！,创造敏感词,养肥,保重身体,你想活着吗",
+      "tag_list": [
+        {
+          "tag_id": "62072",
+          "tag_name": "撕字典",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "97402",
+          "tag_name": "家里人知道吗",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "85996",
+          "tag_name": "女装大佬",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "120063",
+          "tag_name": "处男小说",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "85122",
+          "tag_name": "养肥",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "91689",
+          "tag_name": "鬼畜",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "62077",
+          "tag_name": "女装读者",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "168847",
+          "tag_name": "祖传地下室",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "210540",
+          "tag_name": "创造敏感词",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "209567",
+          "tag_name": "敏感词怪学霸",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "184828",
+          "tag_name": "狗穴霸又断章",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "98600",
+          "tag_name": "测试一下",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "148618",
+          "tag_name": "你想活着吗",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "157938",
+          "tag_name": "求证学霸",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "192773",
+          "tag_name": "地下室",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "227650",
+          "tag_name": "污侠小说",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "191779",
+          "tag_name": "日在校园",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "205101",
+          "tag_name": "老书虫的仙草",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "227718",
+          "tag_name": "正经小说",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "205169",
+          "tag_name": "我们一直在",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "233519",
+          "tag_name": "野兽先辈",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "268305",
+          "tag_name": "保重身体",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "268558",
+          "tag_name": "谢谢学霸",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "268011",
+          "tag_name": "学霸看这里",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "263477",
+          "tag_name": "掌阅里的太监",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "453509",
+          "tag_name": "GVV股东",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "153579",
+          "tag_name": "还删评论？！",
+          "tag_type": "3"
+        },
+        {
+          "tag_id": "144551",
+          "tag_name": "刷票？！",
+          "tag_type": "3"
+        }
+      ],
+      "total_blade": "255390",
+      "total_click": "281664573",
+      "total_fans_value": "589958763",
+      "total_favor": "274445",
+      "total_recommend": "6505351",
+      "total_word_count": "4394185",
+      "total_yp": "370412",
+      "transverse_cover": "",
+      "up_status": "0",
+      "update_status": "1",
+      "uptime": "2021-04-10 04:13:36",
+      "week_click": "80703",
+      "week_fans_value": "219484",
+      "week_favor": "147",
+      "week_no_vip_click": "21318",
+      "week_recommend": "173"
+    },
+    "book_shortage_reommend_list": [
+      {
+        "book_id": "100243519",
+        "book_name": "我，战斗暴龙兽，加入聊天群",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210427/27-04-21172838-51987.jpg",
+        "discount": "1",
+        "discount_end_time": "",
+        "glory_tag": {
+          "corner_name": "",
+          "label_icon": "",
+          "link_url": "",
+          "tag_name": ""
+        },
+        "introduce": "",
+        "tag": "战斗,无限流,爽文,非人,奥特曼,假面骑士,基友是原配,战斗暴龙兽,数码宝贝,聊天群",
+        "total_favor": "31257"
+      },
+      {
+        "book_id": "100238247",
+        "book_name": "我觉得我的画风与众不同",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210402/02-04-21103623-25978.jpg",
+        "discount": "1",
+        "discount_end_time": "",
+        "glory_tag": {
+          "corner_name": "",
+          "label_icon": "",
+          "link_url": "",
+          "tag_name": ""
+        },
+        "introduce": "",
+        "tag": "冒险,种田,非人,魔性,waaagh,令人上头,加更大军阀,大伟,恐虐神选,情节流畅舒服,无女主！,牛头人杀手,牛头人纯爱,男女平等,赞美伟大马拉",
+        "total_favor": "43904"
+      },
+      {
+        "book_id": "100238444",
+        "book_name": "游戏王之带着决斗链接系统闯学院",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210414/14-04-21105010-24538.jpg",
+        "discount": "1",
+        "discount_end_time": "",
+        "glory_tag": {
+          "corner_name": "",
+          "label_icon": "",
+          "link_url": "",
+          "tag_name": ""
+        },
+        "introduce": "",
+        "tag": "ACG,卡牌,同人,校园,洛宝不是琉璃,游戏王",
+        "total_favor": "20646"
+      },
+      {
+        "book_id": "100114978",
+        "book_name": "世界树下你和我",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210226/26-02-21160623-45512-100114978.jpg",
+        "discount": "1",
+        "discount_end_time": "",
+        "glory_tag": {
+          "corner_name": "",
+          "label_icon": "",
+          "link_url": "",
+          "tag_name": ""
+        },
+        "introduce": "",
+        "tag": "冒险,网游,魔法,北欧神话,命运的旅程,国王在睡觉,奥丁不配有家,奥丁不配有马,慢热,搞笑,硬核",
+        "total_favor": "55270"
+      }
+    ],
+    "is_buy": "0",
+    "is_inshelf": "0",
+    "related_list": [
+      {
+        "author_name": "泡面加蛋",
+        "book_id": "100252649",
+        "book_name": "反派女皇偷听我内心还不让我躺平？",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "69",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210615/15-06-21123526-48191.jpg",
+        "current_blade": "1950",
+        "current_yp": "1813",
+        "description": "罗杰一觉醒来，穿越成了西幻RPG大作《永夜难明》，最终反派“永夜女皇”手下右相的弟弟。他自带躺平系统，只要一直混吃等死，当个废物弟弟，就能获得数不清的奖励。岂料永夜女皇不讲武德，靠着超强天赋偷听了他的内心。“青藤帝国千秋万代，女皇陛下自然是大陆永远的主人！”【别做梦了，你被诸神忌惮联手针对，十年后你人都没了！】“在下一介庸才，完全不知如何让十七国乱民归心啊！”【血妈文化水平不行啊，连“车同轨，书同文，行同伦”都不知道？】“左相玛格丽特大人当世人杰，我不敢妄议。”【她就一卧底，重用她真是怕自己死的不够快……】三天后，左相玛格丽特被废，永夜女皇下诏：“罗杰护国有功，封为左相！”“谢陛下……”【血妈你别搞我，我就只想躺平啊！】看着罗杰满心不情愿又只能答应，永夜女皇露出一个满足的笑容。口是心非什么的……最有趣了！",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "1",
+        "last_chapter_info": {
+          "book_id": "100252649",
+          "chapter_id": "107369086",
+          "chapter_index": "70",
+          "chapter_title": "第68章 我们是中立平台",
+          "mtime": "2021-07-10 19:52:50",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 18:24:16"
+        },
+        "month_click": "3440484",
+        "month_fans_value": "2966124",
+        "month_favor": "6954",
+        "month_no_vip_click": "1302114",
+        "month_recommend": "15752",
+        "newtime": "2021-06-17 14:28:06",
+        "review_amount": "121",
+        "reward_amount": "135552",
+        "tag": "异世,网游,魔法,爆笑,修罗场",
+        "tag_list": [
+          {
+            "tag_id": "935973",
+            "tag_name": "作者蠢萝莉",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "918346",
+            "tag_name": "异世",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "918351",
+            "tag_name": "网游",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "918349",
+            "tag_name": "魔法",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "918347",
+            "tag_name": "爆笑",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "918348",
+            "tag_name": "修罗场",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "918350",
+            "tag_name": "躺平系统",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "2187",
+        "total_click": "8558751",
+        "total_fans_value": "3007520",
+        "total_favor": "49452",
+        "total_recommend": "38105",
+        "total_word_count": "212085",
+        "total_yp": "3302",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 18:24:16",
+        "week_click": "1634004",
+        "week_fans_value": "1811376",
+        "week_favor": "2813",
+        "week_no_vip_click": "419160",
+        "week_recommend": "6605"
+      },
+      {
+        "author_name": "D/W?",
+        "book_id": "100247872",
+        "book_name": "人在艾尔罗，不是蜘蛛子，是邪神哒！",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "59",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210523/23-05-21001653-7733-100247872.jpg",
+        "current_blade": "122",
+        "current_yp": "284",
+        "description": "我穿越了，同时成为了世界三大职业之二的中国穿越者以及日本高中生但，这个学校好像有点不太对劲，隔三差五便会有性格亚撒西的高中生凭空消失另人费解但我想我知道原因——因为隔壁平职的原班人马已经在上周集体穿越了而我，离异世界生活只差一辆卡车——或者一场爆炸......邪神D，若叶姬色，超级无敌美少女，摸鱼公会会员，有一个大胸女仆，现在在进行JK游戏，随时可能会被拖回去工作，在未来的某一秒她就会送全班去异世界而她的同桌，也就是我，南梦涯——是无辜的......——绝对是无辜的啊！！！D你这个混蛋还老子青春日常啊！！！还我高中女JK啊！！！谁稀罕什么异世界啊！！！——不行哦，J",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100247872",
+          "chapter_id": "107368762",
+          "chapter_index": "59",
+          "chapter_title": "第四十八页：第二阶段",
+          "mtime": "2021-07-10 16:57:16",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 16:57:16"
+        },
+        "month_click": "2512431",
+        "month_fans_value": "13400",
+        "month_favor": "15275",
+        "month_no_vip_click": "1552461",
+        "month_recommend": "4164",
+        "newtime": "2021-06-23 17:54:47",
+        "review_amount": "105",
+        "reward_amount": "1800",
+        "tag": "rnm的d,上头,蜘蛛子",
+        "tag_list": [
+          {
+            "tag_id": "936248",
+            "tag_name": "rnm的d",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "926338",
+            "tag_name": "上头",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "901019",
+            "tag_name": "蜘蛛子",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "138",
+        "total_click": "2981250",
+        "total_fans_value": "15600",
+        "total_favor": "17454",
+        "total_recommend": "5763",
+        "total_word_count": "115461",
+        "total_yp": "345",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 16:57:16",
+        "week_click": "2386098",
+        "week_fans_value": "12600",
+        "week_favor": "14746",
+        "week_no_vip_click": "1476879",
+        "week_recommend": "3670"
+      },
+      {
+        "author_name": "黑白角龙",
+        "book_id": "100250086",
+        "book_name": "我大概会因为精神错乱而死吧！",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "131",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210601/01-06-21162644-26967.jpg",
+        "current_blade": "177",
+        "current_yp": "609",
+        "description": "秦逸意外加入了一个聊天群，原本以为这个群里的人都很正经，结果却发现里面充满了各种生艹的事情。【宇宙之王奥尔加】：今天的群里还真是安静啊，大概是因为都有事去忙了吧，这很好，今天的我们也要不断地延伸道路！【在世界旅行的小说家】：谢邀，刚变成光，正在打大海螺。【魔法偶像梅莉酱】：有没有人知道要如何才能养得起一大堆阿尔托莉雅？不知为何我这里突然出现了一大堆阿尔托莉雅，现在大不列颠已经完全分裂了啊！一大堆阿尔托莉雅正在进行阿尔托莉雅战争啊！【最棒的吟游诗人】：秦逸，我已经看完了你发的原神剧情，突然觉得提瓦特好无聊，还是你的世界舒服，所以我就住你这里了，至于风神之位就让给你去当吧！...也许应该想个办法退群了，这个群貌似没什么正常人，再这样下去他恐怕就会因为精神错乱而死吧。（本书包含ooc、各种毒点，希望各位在观看前做好准备）。",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "1",
+        "last_chapter_info": {
+          "book_id": "100250086",
+          "chapter_id": "107365936",
+          "chapter_index": "131",
+          "chapter_title": "第121章 即将派上用场的信号斧",
+          "mtime": "2021-07-10 08:01:29",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 06:30:01"
+        },
+        "month_click": "2453706",
+        "month_fans_value": "2919566",
+        "month_favor": "2585",
+        "month_no_vip_click": "371067",
+        "month_recommend": "9901",
+        "newtime": "2021-06-10 17:19:33",
+        "review_amount": "184",
+        "reward_amount": "126336",
+        "tag": "冒险,无限流,爆笑,穿越",
+        "tag_list": [
+          {
+            "tag_id": "908152",
+            "tag_name": "聊天群",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "913878",
+            "tag_name": "冒险",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913880",
+            "tag_name": "无限流",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913881",
+            "tag_name": "爆笑",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913879",
+            "tag_name": "穿越",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "915612",
+            "tag_name": "原神",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "915420",
+            "tag_name": "特摄",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "932",
+        "total_click": "8552469",
+        "total_fans_value": "4027717",
+        "total_favor": "27814",
+        "total_recommend": "35711",
+        "total_word_count": "296081",
+        "total_yp": "2875",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 06:30:01",
+        "week_click": "1503963",
+        "week_fans_value": "1687009",
+        "week_favor": "1154",
+        "week_no_vip_click": "213132",
+        "week_recommend": "5045"
+      },
+      {
+        "author_name": "正在吃瓜的饕餮",
+        "book_id": "100238247",
+        "book_name": "我觉得我的画风与众不同",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "334",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210402/02-04-21103623-25978.jpg",
+        "current_blade": "222",
+        "current_yp": "1103",
+        "description": "日轻世界卧虎藏龙，我为了自己的安全着想招募几个士兵也是很正常的吧？这里还混了一个乙女游戏，很危险，为了安全，我组建一支钢铁骑兵也是合情合理的吧？这个世界的病娇数量有点多，为了小命着想，我穿个铠甲搞点夸张的装饰品警惕她们，是不是很正常？对了，这里还有什么魔王，我再搞个战团来对抗邪恶是不是非常合理？“所以，这就是你把日常恋爱游戏玩成骑马与砍杀的原因吗？”“实际上我在玩全面战争，和恋爱游戏没有半毛钱关系。”",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "1",
+        "last_chapter_info": {
+          "book_id": "100238247",
+          "chapter_id": "107367125",
+          "chapter_index": "334",
+          "chapter_title": "第三百零四章妖精的厕所",
+          "mtime": "2021-07-10 07:00:02",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 07:00:02"
+        },
+        "month_click": "2448513",
+        "month_fans_value": "1997067",
+        "month_favor": "2418",
+        "month_no_vip_click": "253764",
+        "month_recommend": "19395",
+        "newtime": "2021-04-15 13:57:21",
+        "review_amount": "853",
+        "reward_amount": "140784",
+        "tag": "非人,种田,冒险,魔性",
+        "tag_list": [
+          {
+            "tag_id": "861481",
+            "tag_name": "赞美伟大马拉",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "884528",
+            "tag_name": "恐虐神选",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "890151",
+            "tag_name": "加更大军阀",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "890799",
+            "tag_name": "waaagh",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "887857",
+            "tag_name": "令人上头",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "890162",
+            "tag_name": "无女主！",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "900742",
+            "tag_name": "牛头人杀手",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "860257",
+            "tag_name": "非人",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "861145",
+            "tag_name": "种田",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "884429",
+            "tag_name": "大伟",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "860255",
+            "tag_name": "冒险",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "860256",
+            "tag_name": "魔性",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "895422",
+            "tag_name": "牛头人纯爱",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "906337",
+            "tag_name": "情节流畅舒服",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "916836",
+            "tag_name": "男女平等",
+            "tag_type": "3"
+          }
+        ],
+        "total_blade": "2519",
+        "total_click": "21397335",
+        "total_fans_value": "13220641",
+        "total_favor": "43864",
+        "total_recommend": "163318",
+        "total_word_count": "521605",
+        "total_yp": "9687",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 07:00:02",
+        "week_click": "1528011",
+        "week_fans_value": "1246470",
+        "week_favor": "2126",
+        "week_no_vip_click": "191067",
+        "week_recommend": "11038"
+      },
+      {
+        "author_name": "厄尔。",
+        "book_id": "100251390",
+        "book_name": "身在洪荒的我加入了聊天群",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "83",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210609/09-06-21142453-25995.jpg",
+        "current_blade": "123",
+        "current_yp": "378",
+        "description": "看书名",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "1",
+        "last_chapter_info": {
+          "book_id": "100251390",
+          "chapter_id": "107368044",
+          "chapter_index": "83",
+          "chapter_title": "82、亚雷斯塔！（五）",
+          "mtime": "2021-07-10 12:55:17",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 12:55:17"
+        },
+        "month_click": "2275860",
+        "month_fans_value": "253610",
+        "month_favor": "7503",
+        "month_no_vip_click": "1138878",
+        "month_recommend": "8119",
+        "newtime": "2021-06-16 15:48:25",
+        "review_amount": "86",
+        "reward_amount": "4176",
+        "tag": "综漫,ACG,穿越,冒险,热血",
+        "tag_list": [
+          {
+            "tag_id": "913437",
+            "tag_name": "综漫",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913440",
+            "tag_name": "ACG",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913441",
+            "tag_name": "穿越",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913436",
+            "tag_name": "洪荒",
+            "tag_type": "3"
+          },
+          {
+            "tag_id": "913439",
+            "tag_name": "冒险",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "913438",
+            "tag_name": "热血",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "201",
+        "total_click": "3230664",
+        "total_fans_value": "262210",
+        "total_favor": "15027",
+        "total_recommend": "12156",
+        "total_word_count": "170804",
+        "total_yp": "578",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 12:55:17",
+        "week_click": "1205265",
+        "week_fans_value": "246010",
+        "week_favor": "1929",
+        "week_no_vip_click": "535983",
+        "week_recommend": "4666"
+      },
+      {
+        "author_name": "缘凃",
+        "book_id": "100255871",
+        "book_name": "魔女竟然都在我身边",
+        "book_src": "本站首发",
+        "book_type": "1",
+        "category_index": "8",
+        "chapter_amount": "27",
+        "cover": "http://c1.kuangxiangit.com/uploads/allimg/c210701/01-07-21162533-45442.jpg",
+        "current_blade": "242",
+        "current_yp": "453",
+        "description": "“圣女大人，诺亚殿下已经被您赶走十五年了。”“哦？那他知道错了吗？”“他女儿都已经十五岁了。”圣女：？？？",
+        "discount": "1",
+        "discount_end_time": "",
+        "is_original": "1",
+        "is_paid": "0",
+        "last_chapter_info": {
+          "book_id": "100255871",
+          "chapter_id": "107368962",
+          "chapter_index": "27",
+          "chapter_title": "第27章 魔女的气息",
+          "mtime": "2021-07-10 17:46:24",
+          "recommend_book_info": "[]",
+          "uptime": "2021-07-10 17:46:00"
+        },
+        "month_click": "2252208",
+        "month_fans_value": "192188",
+        "month_favor": "22626",
+        "month_no_vip_click": "1392033",
+        "month_recommend": "8595",
+        "newtime": "",
+        "review_amount": "45",
+        "reward_amount": "167988",
+        "tag": "恋爱,萝莉,慢热,战斗,冒险",
+        "tag_list": [
+          {
+            "tag_id": "930466",
+            "tag_name": "恋爱",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930469",
+            "tag_name": "萝莉",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930467",
+            "tag_name": "慢热",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930468",
+            "tag_name": "战斗",
+            "tag_type": "1"
+          },
+          {
+            "tag_id": "930465",
+            "tag_name": "冒险",
+            "tag_type": "1"
+          }
+        ],
+        "total_blade": "242",
+        "total_click": "2252208",
+        "total_fans_value": "192188",
+        "total_favor": "22626",
+        "total_recommend": "8595",
+        "total_word_count": "52910",
+        "total_yp": "453",
+        "transverse_cover": "",
+        "up_status": "0",
+        "update_status": "1",
+        "uptime": "2021-07-10 17:46:00",
+        "week_click": "2234166",
+        "week_fans_value": "188700",
+        "week_favor": "22324",
+        "week_no_vip_click": "1384980",
+        "week_recommend": "8290"
+      }
+    ],
+    "up_reader_info": {
+      "account": "书客7135348683",
+      "avatar_thumb_url": "http://c2.kuangxiangit.com/novel/img_item/img-2016-12/343486/avatar/thumb_dbb23161dad78ccb678f27c4a15566f7.jpg",
+      "avatar_url": "http://c2.kuangxiangit.com/novel/img_item/img-2016-12/343486/avatar/dbb23161dad78ccb678f27c4a15566f7.jpg",
+      "base_status": "1",
+      "ctime": "2016-05-28 13:01:53",
+      "exp_lv": "15",
+      "exp_value": "121044",
+      "gender": "1",
+      "is_author": "1",
+      "is_following": "0",
+      "is_in_blacklist": "0",
+      "is_uploader": "0",
+      "reader_id": "343486",
+      "reader_name": "学霸殿下",
+      "used_decoration": [
+        {
+          "decoration_id": "74",
+          "decoration_type": "1",
+          "decoration_url": "https://app.hbooker.com/resources/image/decoration/pendant_74.png",
+          "reader_decoration_id": "1704458"
+        }
+      ],
+      "vip_lv": "4",
+      "vip_value": "335000"
+    }
+  },
+  "scroll_chests": []
+}
