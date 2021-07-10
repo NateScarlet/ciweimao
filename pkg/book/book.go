@@ -114,9 +114,11 @@ func (book *Book) unmarshalBookInfo(bookInfo gjson.Result) (err error) {
 	if err != nil {
 		return
 	}
-	book.Created, err = client.ParseTime(bookInfo.Get("newtime").String())
-	if err != nil {
-		return
+	if v := bookInfo.Get("newtime").String(); v != "" {
+		book.Created, err = client.ParseTime(v)
+		if err != nil {
+			return
+		}
 	}
 	book.Updated, err = client.ParseTime(bookInfo.Get("uptime").String())
 	if err != nil {
