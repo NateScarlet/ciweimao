@@ -179,7 +179,7 @@ func Search(ctx context.Context, opts ...SearchOption) (ret SearchResult, err er
 	var data = url.Values{
 		"category_index": []string{string(args.category)},
 		"count":          []string{strconv.Itoa(args.pageSize)},
-		"filter_uptime":  []string{},
+		"filter_uptime":  []string{string(args.updateTime)},
 		"filter_word":    []string{string(args.wordCount)},
 		"is_paid":        []string{string(args.expense)},
 		"key":            []string{args.query},
