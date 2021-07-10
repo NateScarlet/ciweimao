@@ -1,0 +1,34 @@
+{{ $root := . -}}
+
+// Code generated from {{templateFiles}}, DO NOT EDIT.
+
+package book
+
+type Category string
+
+const (
+{{- range $k, $v := .categories }}
+    C{{$v.name}} Category = "{{$k}}"
+{{- end }}
+)
+
+func (c Category) String() string {
+    switch c {
+{{- range $k, $v := .categories}}
+    case C{{$v.name}}:
+        return "{{$v.name}}"
+{{- end }}
+    }
+    return ""
+}
+
+
+func CategoryByName(name string) Category {
+    switch {
+{{- range $k, $v := .categories}}
+    case name == "{{$v.name}}":
+        return C{{$v.name}}
+{{- end }}
+    }
+    return ""
+}
