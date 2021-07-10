@@ -1,5 +1,7 @@
 # ciweimao
 
+[![godev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/github.com/NateScarlet/ciweimao/pkg)
+
 刺猬猫 Go 客户端，使用安卓客户端 API。
 
 个人用于通过 RSS 发现新书，所以没有动力实现章节相关内容，欢迎 PR。
