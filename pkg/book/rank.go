@@ -12,8 +12,10 @@ import (
 type RankPeriod string
 
 var (
+	// RPWeek means less than a week for some rank type.
 	RPWeek  RankPeriod = "week"
 	RPMonth RankPeriod = "month"
+	RPTotal RankPeriod = "total"
 )
 
 type RankType string
