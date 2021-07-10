@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/NateScarlet/ciweimao/compare/v0.1.3...v0.1.4) (2021-07-10)
+
+
+### Bug Fixes
+
+* **book:** search by update time not work ([ff889b7](https://github.com/NateScarlet/ciweimao/commit/ff889b7a85f8a5159ab6d365afd156170ff695ac))
+
 ### [0.1.3](https://github.com/NateScarlet/ciweimao/compare/v0.1.2...v0.1.3) (2021-07-10)
 
 
