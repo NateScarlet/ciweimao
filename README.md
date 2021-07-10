@@ -58,11 +58,11 @@ var book = &book.Book{ID: "12345678"}
 _, err = i.Fetch(ctx) // 获取书籍详情
 
 // 书籍排行
-rank, err := book.Rank(ctx, RTClick, RPWeek) // 周点击榜
+rank, err := book.Rank(ctx, book.RTClick, book.RPWeek) // 周点击榜
 require.NoError(t, err)
 rank.Books() // []book.Book
-book.Rank(ctx, RTClick, RPWeek, book.RankOptionPageIndex(2)) // 第二页
-book.Rank(ctx, RTClick, RPWeek, book.RankOptionPageCategory(book.C免费同人)) // 分类筛选
+book.Rank(ctx, book.RTClick, book.RPWeek, book.RankOptionPageIndex(2)) // 第二页
+book.Rank(ctx, book.RTClick, book.RPWeek, book.RankOptionPageCategory(book.C免费同人)) // 分类筛选
 ```
 
 ### 通过环境变量配置登录凭据
