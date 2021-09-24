@@ -1,7 +1,6 @@
 package client
 
 import (
-	"bytes"
 	"context"
 	"crypto/aes"
 	"crypto/cipher"
@@ -15,6 +14,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/NateScarlet/block-cipher/pkg/block_cipher"
 	"github.com/tidwall/gjson"
 )
 
@@ -26,26 +26,19 @@ func (c Client) apiAESKey() (ret []byte) {
 }
 
 func (c Client) DecryptAPIResponse(r io.Reader) (ret io.Reader, err error) {
-	data, err := ioutil.ReadAll(r)
-	if err != nil {
-		return
-	}
-	data, err = base64.StdEncoding.DecodeString(string(data))
-	if err != nil {
-		return
-	}
+	var decoder = base64.NewDecoder(base64.StdEncoding, r)
 
 	block, err := aes.NewCipher(c.apiAESKey())
 	if err != nil {
 		return
 	}
 	var blockMode = cipher.NewCBCDecrypter(block, c.APIInitialVector)
-	blockMode.CryptBlocks(data, data)
 
-	var pkcs7Padding = int(data[len(data)-1])
-	data = data[:len(data)-pkcs7Padding]
-
-	ret = bytes.NewBuffer(data)
+	ret = block_cipher.NewDecrypter(
+		decoder,
+		blockMode,
+		block_cipher.PKCS7Padding{BlockSize: blockMode.BlockSize()},
+	)
 	return
 }
 

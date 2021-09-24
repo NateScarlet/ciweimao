@@ -1,3 +1,5 @@
+github.com/NateScarlet/block-cipher v0.1.0 h1:CSLWyrZirlh7pFBkNvBHWyhZU0QWGbYRFpPv9fvPIls=
+github.com/NateScarlet/block-cipher v0.1.0/go.mod h1:RDSIXsOimp9Yn4e8usB0tR4MeZQYasvLJu5Zt7uUVHw=
 github.com/NateScarlet/snapshot v0.6.0 h1:2wIb4qZ9iGEP1ZuhEZ3YGbkg0CJO8vco0cTXKKs/JyQ=
 github.com/NateScarlet/snapshot v0.6.0/go.mod h1:QZEoAqqVdHl8Ty1lIeUJuwrJdoo2yUHH0yqssD/n6GQ=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
