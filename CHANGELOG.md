@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/NateScarlet/ciweimao/compare/v0.1.5...v0.2.0) (2021-10-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* auto refresh login token
+
+### Features
+
+* auto refresh login token ([325a70e](https://github.com/NateScarlet/ciweimao/commit/325a70e6699baa9b68ded01b1fbb565e9e89dc4f))
+
 ### [0.1.5](https://github.com/NateScarlet/ciweimao/compare/v0.1.4...v0.1.5) (2021-09-24)
 
 
