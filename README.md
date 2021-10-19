@@ -81,6 +81,15 @@ CIWEIMAO_LOGIN_TOKEN=******************************
 CIWEIMAO_DEVICE_TOKEN=ciweimao_***************
 ```
 
+凭据会在一定时间后过期，如果要长期运行可额外设置账号密码使客户端自动更新令牌
+
+```shell
+CIWEIMAO_USERNAME=*******
+CIWEIMAO_PASSWORD=*******
+```
+
+如果需要存储更新的令牌可以通过自定义 Client.TokenRefresher 实现
+
 ## 类似项目
 
 都是用来找书的

@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"sync"
 )
 
 type Client struct {
@@ -17,12 +18,14 @@ type Client struct {
 	DeviceToken      string
 	Account          string
 	AppVersion       string
+	TokenRefresher   TokenRefresher
+	mu               sync.Mutex
 
 	http.Client
 }
 
 // EndpointURL returns url for server endpint.
-func (c Client) EndpointURL(path string, values *url.Values) *url.URL {
+func (c *Client) EndpointURL(path string, values *url.Values) *url.URL {
 	s := c.ServerURL
 	if s == "" {
 		s = DefaultServerURL
@@ -61,6 +64,8 @@ var DefaultAccount string = os.Getenv("CIWEIMAO_ACCOUNT")
 var DefaultLoginToken string = os.Getenv("CIWEIMAO_LOGIN_TOKEN")
 var DefaultDeviceToken string = os.Getenv("CIWEIMAO_DEVICE_TOKEN")
 var DefaultAppVersion string = os.Getenv("CIWEIMAO_APP_VERSION")
+var DefaultUsername string = os.Getenv("CIWEIMAO_USERNAME")
+var DefaultPassword string = os.Getenv("CIWEIMAO_PASSWORD")
 
 // DefaultUserAgent for new clients
 var DefaultUserAgent = os.Getenv("CIWEIMAO_USER_AGENT")
@@ -72,6 +77,7 @@ func (c *Client) ApplyDefaultConfig() {
 	c.LoginToken = DefaultLoginToken
 	c.DeviceToken = DefaultDeviceToken
 	c.AppVersion = DefaultAppVersion
+	c.TokenRefresher = NewLoginTokenRefresher(DefaultUsername, DefaultPassword)
 	c.SetDefaultHeader("User-Agent", DefaultUserAgent)
 }
 

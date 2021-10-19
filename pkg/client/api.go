@@ -20,12 +20,12 @@ import (
 
 // reference https://github.com/zsakvo/Cirno-go/blob/af26c03718a75a86b7198cbdfae0126740e69b55/util/decode.go
 
-func (c Client) apiAESKey() (ret []byte) {
+func (c *Client) apiAESKey() (ret []byte) {
 	var v = sha256.Sum256([]byte(c.APIKey))
 	return v[:]
 }
 
-func (c Client) DecryptAPIResponse(r io.Reader) (ret io.Reader, err error) {
+func (c *Client) DecryptAPIResponse(r io.Reader) (ret io.Reader, err error) {
 	var decoder = base64.NewDecoder(base64.StdEncoding, r)
 
 	block, err := aes.NewCipher(c.apiAESKey())
@@ -42,7 +42,7 @@ func (c Client) DecryptAPIResponse(r io.Reader) (ret io.Reader, err error) {
 	return
 }
 
-func (c Client) SetDefaultAPIAuthData(data url.Values) {
+func (c *Client) SetDefaultAPIAuthData(data url.Values) {
 	if len(data["login_token"]) == 0 {
 		data.Set("login_token", c.LoginToken)
 	}
@@ -57,7 +57,7 @@ func (c Client) SetDefaultAPIAuthData(data url.Values) {
 	}
 }
 
-func (c Client) Call(ctx context.Context, endpoint string, data url.Values) (ret gjson.Result, err error) {
+func (c *Client) Call(ctx context.Context, endpoint string, data url.Values) (ret gjson.Result, err error) {
 	if data == nil {
 		data = url.Values{}
 	}
@@ -90,7 +90,15 @@ func (c Client) Call(ctx context.Context, endpoint string, data url.Values) (ret
 		return
 	}
 	ret = gjson.ParseBytes(respData)
-	if code := ret.Get("code").String(); code != "100000" {
+	code := ret.Get("code").String()
+	if code == "200100" && c.TokenRefresher != nil && !SkipTokenRefresh(ctx) {
+		// 登录状态过期，请重新登录
+		err = c.TokenRefresher.RefreshToken(WithSkipTokenRefresh(ctx, true), c)
+		if err != nil {
+			return
+		}
+		return c.Call(ctx, endpoint, data)
+	} else if code != "100000" {
 		var msg = ret.Raw
 		if tip := ret.Get("tip").String(); tip != "" {
 			msg = fmt.Sprintf("%s: %s", code, tip)

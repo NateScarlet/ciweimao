@@ -8,6 +8,9 @@ import (
 )
 
 func (c *Client) Login(ctx context.Context, username, password string) (ret gjson.Result, err error) {
+	c.mu.Lock()
+	defer c.mu.Unlock()
+
 	var data = url.Values{}
 	c.SetDefaultAPIAuthData(data)
 	data.Set("login_name", username)
