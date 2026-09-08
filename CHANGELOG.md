@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.1](https://github.com/NateScarlet/ciweimao/compare/v0.2.0...v0.2.1) (2026-09-08)
+
+
+### Bug Fixes
+
+* should auto-refresh token when receiving error 200001 without LOGIN_TOKEN ([cf0e335](https://github.com/NateScarlet/ciweimao/commit/cf0e33581238fe26a40482108b194eedbbe8aecf)), closes [#3](https://github.com/NateScarlet/ciweimao/issues/3)
+
 ## [0.2.0](https://github.com/NateScarlet/ciweimao/compare/v0.1.5...v0.2.0) (2021-10-19)
 
 
