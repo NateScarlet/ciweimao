@@ -91,8 +91,10 @@ func (c *Client) Call(ctx context.Context, endpoint string, data url.Values) (re
 	}
 	ret = gjson.ParseBytes(respData)
 	code := ret.Get("code").String()
-	if code == "200100" && c.TokenRefresher != nil && !SkipTokenRefresh(ctx) {
-		// 登录状态过期，请重新登录
+	var shouldRefresh = (code == "200100" || (code == "200001" && c.LoginToken == "")) &&
+		c.TokenRefresher != nil && !SkipTokenRefresh(ctx)
+	if shouldRefresh {
+		// 登录状态过期(200100)或缺少登录必需参数(200001)时，刷新 token 并重试
 		err = c.TokenRefresher.RefreshToken(WithSkipTokenRefresh(ctx, true), c)
 		if err != nil {
 			return
