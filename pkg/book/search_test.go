@@ -11,6 +11,7 @@ import (
 )
 
 func TestSearch(t *testing.T) {
+	skipWithoutCredentials(t)
 	var ctx = context.Background()
 
 	res, err := Search(ctx)

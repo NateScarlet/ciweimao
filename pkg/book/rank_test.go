@@ -11,6 +11,7 @@ import (
 )
 
 func TestRank(t *testing.T) {
+	skipWithoutCredentials(t)
 	var ctx = context.Background()
 
 	res, err := Rank(ctx, RTClick, RPWeek)

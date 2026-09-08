@@ -3,6 +3,7 @@ package book
 import (
 	"context"
 	"encoding/json"
+	"os"
 	"testing"
 
 	"github.com/NateScarlet/snapshot/pkg/snapshot"
@@ -10,7 +11,15 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
+func skipWithoutCredentials(t *testing.T) {
+	t.Helper()
+	if os.Getenv("CIWEIMAO_LOGIN_TOKEN") == "" {
+		t.Skip("CIWEIMAO_LOGIN_TOKEN not set, skipping integration test")
+	}
+}
+
 func TestBookFetch(t *testing.T) {
+	skipWithoutCredentials(t)
 	var ctx = context.Background()
 
 	var book = new(Book)
