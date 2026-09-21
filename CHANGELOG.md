@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.2](https://github.com/NateScarlet/ciweimao/compare/v0.2.1...v0.2.2) (2026-09-21)
+
+
+### Bug Fixes
+
+* **client:** incorrect timezone unit ([4bf3e2e](https://github.com/NateScarlet/ciweimao/commit/4bf3e2e2364ac44dbf7fa4f0cb32451417c7a998))
+
 ## [0.2.1](https://github.com/NateScarlet/ciweimao/compare/v0.2.0...v0.2.1) (2026-09-08)
 
 
