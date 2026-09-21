@@ -111,6 +111,8 @@ func (c *Client) Call(ctx context.Context, endpoint string, data url.Values) (re
 	return
 }
 
+var TZ = time.FixedZone("UTC+8", 8*3600)
+
 func ParseTime(v string) (ret time.Time, err error) {
-	return time.ParseInLocation("2006-01-02 15:04:05", v, time.FixedZone("UTC+8", 8*60))
+	return time.ParseInLocation("2006-01-02 15:04:05", v, TZ)
 }
